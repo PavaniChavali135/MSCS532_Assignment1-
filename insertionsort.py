@@ -1,4 +1,4 @@
-example = [4,3,6,2,7,1]
+example = [4,3,6,2,7,2,1]
 
 for i in range(1,len(example)):
     curr = example[i]
